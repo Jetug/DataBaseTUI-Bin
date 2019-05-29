@@ -1,0 +1,19 @@
+C:\C#\DataBase_Bin\RunDll\bin\Debug\RunDll.exe.config
+C:\C#\DataBase_Bin\RunDll\bin\Debug\RunDll.exe
+C:\C#\DataBase_Bin\RunDll\bin\Debug\RunDll.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\Correct Input.dll
+C:\C#\DataBase_Bin\RunDll\bin\Debug\DataBase.dll
+C:\C#\DataBase_Bin\RunDll\bin\Debug\Shell.dll
+C:\C#\DataBase_Bin\RunDll\bin\Debug\TUI.dll
+C:\C#\DataBase_Bin\RunDll\bin\Debug\DataBaseLogic.dll
+C:\C#\DataBase_Bin\RunDll\bin\Debug\BaseOutPut.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\Correct Input.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\DataBase.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\Shell.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\TUI.pdb
+C:\C#\DataBase_Bin\RunDll\bin\Debug\DataBaseLogic.pdb
+C:\C#\DataBase_Bin\RunDll\obj\Debug\DataBase_Bin.csprojAssemblyReference.cache
+C:\C#\DataBase_Bin\RunDll\obj\Debug\DataBase_Bin.csproj.CoreCompileInputs.cache
+C:\C#\DataBase_Bin\RunDll\obj\Debug\DataBase_Bin.csproj.CopyComplete
+C:\C#\DataBase_Bin\RunDll\obj\Debug\RunDll.exe
+C:\C#\DataBase_Bin\RunDll\obj\Debug\RunDll.pdb
